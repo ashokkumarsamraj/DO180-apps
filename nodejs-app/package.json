@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "Hello World App",
   "main": "server.js",
+  "Services": {
+     "Start": "node app.js"
+},
   "author": "Red Hat Training",
   "license": "ASL",
   "dependencies": {
